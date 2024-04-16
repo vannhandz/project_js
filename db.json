@@ -1,0 +1,96 @@
+{
+  "food": [
+    {
+      "id": "1",
+      "name": "",
+      "image": "./img/vi_ca.jpg",
+      "price": "",
+      "quantity": "",
+      "detail": ""
+    },
+    {
+      "id": "2",
+      "name": "Isabella’s Islay ",
+      "image": "./img/bo_kobe.jpg",
+      "price": "390 $",
+      "quantity": "99",
+      "detail": "okkk"
+    },
+    {
+      "id": "3",
+      "name": "king grap",
+      "image": "./img/cua.jpg",
+      "price": "",
+      "quantity": "",
+      "detail": "ok"
+    },
+    {
+      "id": "b8eb",
+      "name": "test food",
+      "img": "",
+      "price": "ok",
+      "quantity": "ok",
+      "detail": "ok"
+    }
+  ],
+  "drink": [
+    {
+      "id": "1",
+      "name": "ghj",
+      "image": "./img/voka.jpg",
+      "price": "898",
+      "quantity": "gjh",
+      "detail": "okok"
+    },
+    {
+      "id": "2",
+      "name": "mnmm",
+      "image": "./img/isa.jpg",
+      "price": "tertert",
+      "quantity": "7544",
+      "detail": "1222rwe"
+    },
+    {
+      "id": "3",
+      "name": "ok",
+      "image": "./img/dragon.jpg",
+      "price": "",
+      "quantity": "",
+      "detail": "ok"
+    },
+    {
+      "id": "4",
+      "name": "Tequila Ley",
+      "image": "./img/ley.jpg",
+      "price": "400 $",
+      "quantity": "99",
+      "detail": "okkk"
+    },
+    {
+      "id": "5fce",
+      "name": "test drink",
+      "img": "",
+      "price": "ok",
+      "quantity": "ok",
+      "detail": "ok"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "nhan",
+      "phone": "./img/vi_ca.jpg",
+      "gmail": "250 $",
+      "address": "99",
+      "gender": "true"
+    },
+    {
+      "id": "1",
+      "name": "tuan",
+      "phone": "./img/vi_ca.jpg",
+      "gmail": "250 $",
+      "address ": "99",
+      "gender": "true"
+    }
+  ]
+}
